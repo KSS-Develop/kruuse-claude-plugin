@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kruuse": {
+      "type": "http",
+      "url": "https://kruuse.cl/api/ucp/mcp"
+    }
+  }
+}

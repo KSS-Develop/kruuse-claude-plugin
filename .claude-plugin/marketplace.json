@@ -1,0 +1,15 @@
+{
+  "name": "kruuse",
+  "owner": {
+    "name": "Kruuse Chile",
+    "url": "https://kruuse.cl"
+  },
+  "description": "Plugin de Kruuse Chile para Claude: catálogo de maquinaria y herramientas con carro.",
+  "plugins": [
+    {
+      "name": "kruuse",
+      "source": "./",
+      "description": "Busca maquinaria y herramientas de Kruuse Chile, compara variantes con precio con IVA y stock, y arma un carro para pagar en kruuse.cl."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kruuse",
+  "displayName": "Kruuse",
+  "version": "1.0.0",
+  "description": "Busca maquinaria y herramientas de Kruuse Chile, compara variantes con precio con IVA y stock, y arma un carro para pagar en kruuse.cl.",
+  "author": {
+    "name": "Kruuse Chile",
+    "url": "https://kruuse.cl"
+  },
+  "homepage": "https://kruuse.cl/cl",
+  "privacyPolicyUrl": "https://kruuse.cl/cl/politica-de-privacidad",
+  "repository": "https://github.com/KSS-Develop/kruuse-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "maquinaria",
+    "herramientas",
+    "chile",
+    "scheppach",
+    "holzstar",
+    "taller",
+    "compras"
+  ]
+}
