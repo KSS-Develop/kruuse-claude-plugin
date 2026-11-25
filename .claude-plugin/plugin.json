@@ -9,6 +9,9 @@
   },
   "homepage": "https://kruuse.cl/cl",
   "privacyPolicyUrl": "https://kruuse.cl/cl/politica-de-privacidad",
+  "termsOfServiceUrl": "https://kruuse.cl/cl/terminos-y-condiciones",
+  "supportUrl": "https://kruuse.cl/cl/contacto",
+  "documentationUrl": "https://github.com/KSS-Develop/kruuse-claude-plugin#readme",
   "repository": "https://github.com/KSS-Develop/kruuse-claude-plugin",
   "license": "MIT",
   "keywords": [
